@@ -32,3 +32,5 @@ console.log(suma(7, 3));
 
 // Exportamos las funciones para usarlas en otros archivos
 module.exports = { suma, deEuroADolar, deDolarAYen, deYenALibra };
+
+/para ver si funciona /
